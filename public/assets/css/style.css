@@ -1,0 +1,138 @@
+.carousel-img{
+max-height: 100vh;
+}
+
+.carousel-caption{
+    border-top: 10px solid green;
+    background-color:black;
+    
+}
+
+.vh-50{
+    height: 100vh;
+}
+
+.primary{
+    color: green;
+}
+
+.active{
+    color: green !important;
+}
+
+.as-container{
+    position: relative;
+    padding-bottom: 10px;
+}
+.as-container h2::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: green;
+    bottom:0;
+    left:calc(50% - 25px);
+}
+
+.sev-container{
+    position: relative;
+    padding-bottom: 10px;
+}
+.sev-container h2::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: green;
+    bottom:0;
+    left:calc(50% - 25px);
+}
+
+
+
+.about-us{
+    font-size: 50px;
+}
+.about-us-sub{
+    font-size: 30px;
+}
+
+.about-us-side{
+    font-size: 20px;
+}
+
+.about-us-side p {
+    font-size: 10px;
+}
+
+.list-group-item{
+    font-size: 18px;
+}
+
+.testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+  .testimonial-card .avatar {
+    width: 110px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 3px solid #fff;
+    border-radius: 50%;
+  }
+
+  .cards-tes {
+    border-radius: .7rem;
+  }
+
+
+  .service-container{
+    position: relative;
+    padding-bottom: 10px;
+}
+.service-container h2::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: green;
+    bottom:0;
+    left:calc(50% - 25px);
+}
+
+
+
+.con-container{
+    position: relative;
+    padding-bottom: 10px;
+}
+.con-container h2::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: green;
+    bottom:0;
+    left:calc(50% - 25px);
+}
+.p-container{
+    position: relative;
+    padding-bottom: 10px;
+}
+.p-container h2::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: green;
+    bottom:0;
+    left:calc(50% - 25px);
+}
+
